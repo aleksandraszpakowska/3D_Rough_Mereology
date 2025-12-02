@@ -10,7 +10,7 @@ This project utilizes image processing and potential-field methods to detect obs
 Stores the **basic coordinates** required by the system.
 
 ### `images/`
-Contains additional **input images** used during detection and visualization.
+Contains additional **output images** obtained during detection and visualization.
 
 ---
 
