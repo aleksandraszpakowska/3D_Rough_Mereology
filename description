@@ -1,0 +1,12 @@
+In the txt_files, the basic coordinates are saved.
+More pictures you can find in an images folder. 
+
+Files : 
+  red_detections, blue_and_red_detection, detect_green_cube consist of the OpenCV code 
+  to determine the boundaries, obstacles, and the goal point
+    
+Files: 
+visualization_fields, visualization_path are responsible for visualizing fields and path on a generated map.
+
+File:
+  mereology_generating consists of the algorithm responsible for generating the potential fields. 
